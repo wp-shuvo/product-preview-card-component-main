@@ -24,7 +24,7 @@ body {
   font-family: var(--primaryFont);
   font-weight: 400;
   font-size: 14px;
-  background: var(--creamColor);
+  background: linear-gradient(to right, #786fa6, #63cdda);
   display: flex;
   align-items: center;
   justify-content: center;
